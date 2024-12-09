@@ -5,7 +5,7 @@
 <img align="center" width="400px" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="coding">
 
 ```python
-Name = "Abhijeet"
+Name = "Adarsh Singh"
 Interests = ["Coding", "Cryptography", "Problem Solving", "Graphic Editing", "Photography", "Exploring various OS :)"]
 Languages = ["C", "C++", "Python", "HTML", "CSS"]
 OS = [ "Ubuntu", "Windows","Kali Linux"]
